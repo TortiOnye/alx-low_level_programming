@@ -1,4 +1,9 @@
-#include <stdio.h>
+#!/bin/bash
+gcc $CFILE -o cisfun
+
+4-puts.c
+
+#include<stdio.h>
 /**
  * main - Entry point
  *
